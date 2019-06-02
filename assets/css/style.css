@@ -1,0 +1,24 @@
+
+.topics {
+	margin-left: 5px;
+	margin-right: 5px;
+	background: lightblue;
+	color: black;
+	margin-top: 10px;
+}
+
+#add-topic {
+	margin-top: 5px;
+	background: lightblue;
+	color: red;
+}
+
+div.picture {
+
+	display: inline-block;
+
+	margin-left: 5px;
+
+	margin-right: 5px;
+
+}
